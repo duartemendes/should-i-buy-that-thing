@@ -1,7 +1,5 @@
 # should-i-buy-that-thing
 
-[Should I buy that thing?](https://should-i-buy-that-thing.now.sh)
-
 [Add Questions](https://github.com/duartemendes/should-i-buy-that-thing/blob/master/src/questions.js)
 
 THIS IS A JOKE ! NO MATTER WHAT YOU SAY IT WILL TELL YOU:
