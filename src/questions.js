@@ -1,20 +1,15 @@
 // @flow
 
 export default [
-  "Is it going to have more than 50K lines of code?",
-  "Does it need state management?",
-  "Will it interact with APIs?",
-  "Will it have complicated styling?",
-  "Does it have forms?",
-  "Will it use GraphQL?",
-  "Will it have complicated animations?",
-  "Will it be very cpu intensive?",
-  "Will you use Reactive Programming?",
-  "Is performance a big concern?",
-  "Will it be super interactive?",
-  "Will it be server rendered?",
-  "Do most of your customers use Google Chrome browser?",
-  "Do the developers have time to learn new concepts?",
-  "Is client side latency very important for your application?",
-  "Will it need a powerful template engine?"
+  "Does it costs more than 1% of your current net worth?",
+  "Do you need it to survive?",
+  "Will it improve your quality of life?",
+  "Do you need it to impress someone?",
+  "Will you ask for credit to pay for it?",
+  "Will it enhance your productivity?",
+  "Have you really thought about this?",
+  "Do you really, really need it?",
+  "Have you looked for the best deal?",
+  "Have you take a look at the classifieds?",
+  "Will it make you poorer?"
 ]

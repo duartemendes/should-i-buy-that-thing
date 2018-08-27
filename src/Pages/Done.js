@@ -11,19 +11,19 @@ const Done = () => (
   <main {...style("root", {})}>
     <Fragment>
       <Title>
-        No one cares if you use <span className={style.blue}>React</span> or{" "}
-        <span className={style.yellow}>Vue</span>.
+        No one cares if you ride a <span className={style.blue}>Mercedes</span>{" "}
+        or a <span className={style.yellow}>Fiat Uno</span>.
       </Title>
-      <Title>They are both fucking awesome!</Title>
+      <Title>Save your money, get rich and remember to be happy!</Title>
       <div>
         <Twitter
-          message="Find out if you should use react or vue"
-          link="https://should-i-use-react-or-vue.now.sh"
+          message="Find out if you should buy that thing"
+          link="https://should-i-buy-that-thing.now.sh"
         />
         <a
           rel="noopener noreferrer"
           target="_blank"
-          href="https://github.com/SaraVieira/should-i-use-react-or-vue"
+          href="https://github.com/duartemendes/should-i-buy-that-thing"
         >
           Repo
         </a>
